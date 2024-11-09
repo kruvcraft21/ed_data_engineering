@@ -1,9 +1,9 @@
 import re
 from collections import Counter
 
-def write_dict(file_name, dict):
+def write_counter(file_name, list_tuples):
     with open(file_name, 'w') as file:
-        for key, value in dict.items():
+        for key, value in list_tuples:
             file.write(f"{key}:{value}\n")
 
 def write_list(file_name, list):
@@ -19,8 +19,8 @@ words = re.findall(r"\b\w+\b",
                    data.replace("'", "").lower())
 
 words_count = Counter(words).most_common()
-
-write_list("first_task_result.txt", words_count)
+print(words_count)
+write_counter("first_task_result.txt", words_count)
 
 count_sentences = []
 for paragraph in re.split('\n', data):

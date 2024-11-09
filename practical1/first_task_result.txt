@@ -10,10 +10,10 @@ what:52
 than:51
 you:49
 they:46
+its:44
 a:42
 because:42
 do:38
-it's:36
 it:30
 like:23
 me:22
@@ -23,7 +23,7 @@ buy:22
 good:21
 has:19
 something:15
-i'm:14
+im:14
 more:13
 studied:13
 get:13
@@ -49,7 +49,6 @@ allows:8
 grow:8
 as:8
 person:8
-its:8
 potential:8
 want:7
 difference:7
