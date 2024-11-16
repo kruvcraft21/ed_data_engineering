@@ -1,3 +1,6 @@
+# Подсчитайте частоту всех слов, встречающихся в тексте.
+# В результирующем файле выведите полученные данные в порядке убывания их частоты
+
 import re
 from collections import Counter
 
@@ -21,6 +24,8 @@ words = re.findall(r"\b\w+\b",
 words_count = Counter(words).most_common()
 print(words_count)
 write_counter("first_task_result.txt", words_count)
+
+# Подсчитайте количество предложений в каждом абзаце.
 
 count_sentences = []
 for paragraph in re.split('\n', data):
