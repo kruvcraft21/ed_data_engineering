@@ -1,0 +1,3 @@
+Swiss:30
+circular:29
+Olympic:19
