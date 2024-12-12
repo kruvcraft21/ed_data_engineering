@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "Программист",
+        "total_salary": 193212,
+        "avg_salary": 193212.0
+    },
+    {
+        "_id": "IT-специалист",
+        "total_salary": 331203,
+        "avg_salary": 165601.5
+    },
+    {
+        "_id": "Водитель",
+        "total_salary": 159658,
+        "avg_salary": 159658.0
+    },
+    {
+        "_id": "Психолог",
+        "total_salary": 156206,
+        "avg_salary": 156206.0
+    },
+    {
+        "_id": "Инженер",
+        "total_salary": 132959,
+        "avg_salary": 132959.0
+    },
+    {
+        "_id": "Учитель",
+        "total_salary": 131681,
+        "avg_salary": 131681.0
+    }
+]
