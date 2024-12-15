@@ -1,0 +1,104 @@
+[
+    {
+        "column": "original_event_id",
+        "memory": 19701808,
+        "memory_fraction": 0.1454516868898308,
+        "dtype": "float64"
+    },
+    {
+        "column": "game_id",
+        "memory": 9850904,
+        "memory_fraction": 0.0727258434449154,
+        "dtype": "int32"
+    },
+    {
+        "column": "time_seconds",
+        "memory": 9850904,
+        "memory_fraction": 0.0727258434449154,
+        "dtype": "float32"
+    },
+    {
+        "column": "player_id",
+        "memory": 9850904,
+        "memory_fraction": 0.0727258434449154,
+        "dtype": "int32"
+    },
+    {
+        "column": "start_x",
+        "memory": 9850904,
+        "memory_fraction": 0.0727258434449154,
+        "dtype": "float32"
+    },
+    {
+        "column": "start_y",
+        "memory": 9850904,
+        "memory_fraction": 0.0727258434449154,
+        "dtype": "float32"
+    },
+    {
+        "column": "end_x",
+        "memory": 9850904,
+        "memory_fraction": 0.0727258434449154,
+        "dtype": "float32"
+    },
+    {
+        "column": "end_y",
+        "memory": 9850904,
+        "memory_fraction": 0.0727258434449154,
+        "dtype": "float32"
+    },
+    {
+        "column": "team_id",
+        "memory": 4925452,
+        "memory_fraction": 0.0363629217224577,
+        "dtype": "int16"
+    },
+    {
+        "column": "action_id",
+        "memory": 4925452,
+        "memory_fraction": 0.0363629217224577,
+        "dtype": "int16"
+    },
+    {
+        "column": "type_name",
+        "memory": 2464540,
+        "memory_fraction": 0.018194853000671998,
+        "dtype": "category"
+    },
+    {
+        "column": "result_name",
+        "memory": 2463151,
+        "memory_fraction": 0.018184598490370713,
+        "dtype": "category"
+    },
+    {
+        "column": "bodypart_name",
+        "memory": 2463149,
+        "memory_fraction": 0.018184583725057102,
+        "dtype": "category"
+    },
+    {
+        "column": "period_id",
+        "memory": 2462726,
+        "memory_fraction": 0.01818146086122885,
+        "dtype": "int8"
+    },
+    {
+        "column": "bodypart_id",
+        "memory": 2462726,
+        "memory_fraction": 0.01818146086122885,
+        "dtype": "int8"
+    },
+    {
+        "column": "type_id",
+        "memory": 2462726,
+        "memory_fraction": 0.01818146086122885,
+        "dtype": "int8"
+    },
+    {
+        "column": "result_id",
+        "memory": 2462726,
+        "memory_fraction": 0.01818146086122885,
+        "dtype": "int8"
+    }
+]

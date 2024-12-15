@@ -1,0 +1,104 @@
+[
+    {
+        "column": "result_name",
+        "memory": 156233669,
+        "memory_fraction": 0.20668936517607106,
+        "dtype": "object"
+    },
+    {
+        "column": "type_name",
+        "memory": 153743668,
+        "memory_fraction": 0.20339521783080336,
+        "dtype": "object"
+    },
+    {
+        "column": "bodypart_name",
+        "memory": 150381889,
+        "memory_fraction": 0.19894775159756622,
+        "dtype": "object"
+    },
+    {
+        "column": "game_id",
+        "memory": 19701808,
+        "memory_fraction": 0.026064511026370623,
+        "dtype": "int64"
+    },
+    {
+        "column": "period_id",
+        "memory": 19701808,
+        "memory_fraction": 0.026064511026370623,
+        "dtype": "int64"
+    },
+    {
+        "column": "time_seconds",
+        "memory": 19701808,
+        "memory_fraction": 0.026064511026370623,
+        "dtype": "float64"
+    },
+    {
+        "column": "team_id",
+        "memory": 19701808,
+        "memory_fraction": 0.026064511026370623,
+        "dtype": "int64"
+    },
+    {
+        "column": "player_id",
+        "memory": 19701808,
+        "memory_fraction": 0.026064511026370623,
+        "dtype": "int64"
+    },
+    {
+        "column": "start_x",
+        "memory": 19701808,
+        "memory_fraction": 0.026064511026370623,
+        "dtype": "float64"
+    },
+    {
+        "column": "start_y",
+        "memory": 19701808,
+        "memory_fraction": 0.026064511026370623,
+        "dtype": "float64"
+    },
+    {
+        "column": "end_x",
+        "memory": 19701808,
+        "memory_fraction": 0.026064511026370623,
+        "dtype": "float64"
+    },
+    {
+        "column": "end_y",
+        "memory": 19701808,
+        "memory_fraction": 0.026064511026370623,
+        "dtype": "float64"
+    },
+    {
+        "column": "original_event_id",
+        "memory": 19701808,
+        "memory_fraction": 0.026064511026370623,
+        "dtype": "float64"
+    },
+    {
+        "column": "bodypart_id",
+        "memory": 19701808,
+        "memory_fraction": 0.026064511026370623,
+        "dtype": "int64"
+    },
+    {
+        "column": "type_id",
+        "memory": 19701808,
+        "memory_fraction": 0.026064511026370623,
+        "dtype": "int64"
+    },
+    {
+        "column": "result_id",
+        "memory": 19701808,
+        "memory_fraction": 0.026064511026370623,
+        "dtype": "int64"
+    },
+    {
+        "column": "action_id",
+        "memory": 19701808,
+        "memory_fraction": 0.026064511026370623,
+        "dtype": "int64"
+    }
+]
